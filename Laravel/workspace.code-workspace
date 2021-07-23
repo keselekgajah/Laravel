@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../../Sites/Laravel"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
